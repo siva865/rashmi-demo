@@ -1,5 +1,5 @@
 import React from 'react';
-import './Hero.css';
+import './hero.css';
 import { FaYoutube, FaInstagram } from 'react-icons/fa';
 import { motion } from 'framer-motion';
 
